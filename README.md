@@ -7,11 +7,12 @@
 
 To answer these questions, I connect to OpenFDA's Drug Endpoint, and may eventually combine the dataset with GoodRx's US Pricing Data, WHO's ATC/DDD index, and the Indian National Medicines Registry.
 
-Current Stage: 
-[x] Background
-[x] Dataset Description
-[x] Methodology Pseudocode
-[x] Analysis Pseudocode
-[] Methodology
-[] Analysis
+Current Stage of Jupyter Notebook:   
+[x] Background  
+[x] Dataset Description  
+[x] Methodology Pseudocode  
+[x] Analysis Pseudocode  
+[] Methodology  
+[] Analysis  
+
 
