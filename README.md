@@ -7,12 +7,9 @@
 
 To answer these questions, I connect to OpenFDA's Drug Endpoint, and may eventually combine the dataset with GoodRx's US Pricing Data, WHO's ATC/DDD index, and the Indian National Medicines Registry.
 
-Current Stage of Jupyter Notebook:   
-[x] Background  
-[x] Dataset Description  
-[x] Methodology Pseudocode  
-[x] Analysis Pseudocode  
-[] Methodology  
-[] Analysis  
-
+Repo File Contents:
+- FDA_OPOE_Analysis.pynb: jupyter notebook with methodology and cleaning codes
+- media folder: illustrative images used within notebook
+- opoe_data folder: [FDA's Off-Patent, Off-Exclusivity from 2017 June - 2021 June](https://www.fda.gov/drugs/abbreviated-new-drug-application-anda/list-patent-exclusivity-drugs-without-approved-generic)
+- nonUS_data folder: collection of other international pharmaceutical registers for future analysis
 
